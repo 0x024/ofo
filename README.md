@@ -5,4 +5,4 @@
  ![image](https://github.com/0x024/O2M/blob/master/temp/tree.png)
  
  ## 0x02 更新
- 暂无更新，因为涉及太多的事，本项目暂时搁置
+ 暂无更新，因为涉及......，本项目暂时搁置
